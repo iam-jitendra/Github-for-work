@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is th command file
+=======
+this is requirments file
+>>>>>>> 7073465 (changes in rquiremnts file)
