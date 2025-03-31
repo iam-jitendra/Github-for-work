@@ -1,1 +1,5 @@
-print ("this is the python file of the first program")
+a = input("Enter the first number: ")
+b = input("Enter the second number: ")
+sum = a + b
+(print("The sum is:", sum))
+
